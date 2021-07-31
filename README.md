@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-# CometChat Kitchen Sink Sample App (React)
+# CometChat Sample App (React)
 
 <p align="left">
     <a href="https://github.com/cometchat-pro/javascript-react-chat-app/releases" alt="Releases">
